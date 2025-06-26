@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+yfinance==0.2.37
+pandas==2.2.2
+requests==2.31.0
+beautifulsoup4==4.12.3
+newsapi-python==0.2.7
+finnhub-python==2.4.17 
